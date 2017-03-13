@@ -287,7 +287,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: packageman
 
 # Disqus
 #disqus_shortname:
@@ -345,8 +345,8 @@ mathjax:
 duoshuo_info:
   ua_enable: true
   admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  user_id: 6396947893038614000
+  admin_nickname: packageman
 
 
 # Facebook SDK Support.
