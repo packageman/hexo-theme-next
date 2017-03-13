@@ -71,9 +71,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
-
+#scheme: Mist
+scheme: Pisces
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -135,10 +134,10 @@ font:
 #social:
   #LinkLabel: Links
 social:
-  gitHub: https://github.com/packageman
-  twitter: https://twitter.com/xiaoqi0606
-  weibo: http://weibo.com/u/2560845137
-  zhihu: https://www.zhihu.com/people/zhang-zhong-hua-10
+  GitHub: https://github.com/packageman
+  Twitter: https://twitter.com/xiaoqi0606
+  微博: http://weibo.com/u/2560845137
+  知乎: https://www.zhihu.com/people/zhang-zhong-hua-10
   #Others:
 
 # Social Links Icons
@@ -150,10 +149,10 @@ social_icons:
   enable: true
   # Icon Mappings
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  gitHub: github
-  twitter: twitter
-  weibo: weibo
-  zhihu: zhihu
+  GitHub: github
+  Twitter: twitter
+  微博: weibo
+  知乎: globe
 
 
 # Sidebar Avatar
