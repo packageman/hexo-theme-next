@@ -14,7 +14,7 @@ keywords: "Hello,NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -71,8 +71,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -187,7 +187,7 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
+  display: hide
   #display: post
 
   # Sidebar offset from top menubar in pixels.
@@ -287,6 +287,7 @@ mathjax:
 
 # Duoshuo ShortName
 duoshuo_shortname: packageman
+# duoshuo_hotartical: true
 
 # Disqus
 #disqus_shortname:
@@ -318,7 +319,7 @@ duoshuo_shortname: packageman
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -343,9 +344,9 @@ duoshuo_shortname: packageman
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
+  admin_enable: true
   user_id: 6396947893038614000
-  admin_nickname: packageman
+  admin_nickname: 博主
 
 
 # Facebook SDK Support.
@@ -379,9 +380,9 @@ vkontakte_api:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: vJ5U934hkoTeEfEV65iMY5g5-gzGzoHsz
+  app_key: W5gG6M4BHI3tqq6sPSYl1Lnl
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -431,7 +432,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
