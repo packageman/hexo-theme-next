@@ -346,7 +346,7 @@ duoshuo_info:
   ua_enable: true
   admin_enable: true
   user_id: 6396947893038614000
-  admin_nickname: 博主
+  admin_nickname: Author
 
 
 # Facebook SDK Support.
